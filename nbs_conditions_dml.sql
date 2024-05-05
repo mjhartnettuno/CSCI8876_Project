@@ -114,12 +114,100 @@ INSERT INTO nbsConditions VALUES (
   );
 
 INSERT INTO nbsConditions VALUES (
-  "S, Beta-Thalassemia", 
-  "HB S/BTh",
-  "Hemoglobin Disorder",
-  "HBB",
+  "Biopterin Defect in Cofactor Biosynthesis", 
+  "BIOPT-BS",
+  "Amino Acid Disorder",
+  "GCH1, PTS",
   "Autosomal recessive",
-  "1,000s born per year",
-  "Fluids, Pain Medication, Antibiotics, Hydroxyurea, Blood Transfusions",
+  "1:1,000,000",
+  "Dietary Considerations, BH4 Supplements, Dopamine Medications",
+  "IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Biopterin Defect in Cofactor Regeneration", 
+  "BIOPT-REG",
+  "Amino Acid Disorder",
+  "PCBD1, QDPR",
+  "Autosomal recessive",
+  "1:1,000,000",
+  "Dietary Considerations, BH4 Supplements, Dopamine Medications",
+  "IA, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Biotinidase Deficiency", 
+  "BIOT",
+  "Other",
+  "BTD",
+  "Autosomal recessive",
+  "1:60,000",
+  "Biotin Supplements",
   "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Carnitine Acylcarnitine Translocase Deficiency", 
+  "CACT",
+  "Fatty Acid Oxidation Disorder",
+  "SLC25A20",
+  "Autosomal recessive",
+  "30 cases reported",
+  "Dietary Considerations, L-Carnitine Supplements, MCT Oil",
+  "CO, IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Carnitine Palmitoyltransferase I Deficiency", 
+  "CPT-1A",
+  "Fatty Acid Oxidation Disorder",
+  "CPT1A",
+  "Autosomal recessive",
+  "less than 50 cases reported",
+  "Dietary Considerations, MCT Oil",
+  "CO, IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Carnitine Palmitoyltransferase Type II Deficiency", 
+  "CPT-II",
+  "Fatty Acid Oxidation Disorder",
+  "CPT2",
+  "Autosomal recessive",
+  "at least 30 cases reported",
+  "Dietary Considerations, MCT Oil, L-Carnitine Supplements",
+  "CO, IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Carnitine Uptake Defect", 
+  "CUD",
+  "Fatty Acid Oxidation Disorder",
+  "SLC22A5",
+  "Autosomal recessive",
+  "1:100,000",
+  "Dietary Considerations, L-Carnitine Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Citrullinemia, Type I", 
+  "CIT",
+  "Amino Acid Disorder",
+  "ASS1",
+  "Autosomal recessive",
+  "1:57,000",
+  "Dietary Considerations, Arginine Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Citrullinemia, Type II", 
+  "CIT II",
+  "Amino Acid Disorder",
+  "SLC25A13",
+  "Autosomal recessive",
+  "1:100,000-230,000 (Japanese Ethnicity)",
+  "Dietary Considerations, Arginine Supplements",
+  "CO, IA, NE, SD"
   );
