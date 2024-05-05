@@ -1,3 +1,4 @@
+db.States.InsertMany(
 [{
   "_id": {
     "$oid": "662ed0e8ae8e552df0e86950"
@@ -78,3 +79,4 @@
   "state_abbrev": "OH",
   "screened_conditions": 47
 }]
+)
