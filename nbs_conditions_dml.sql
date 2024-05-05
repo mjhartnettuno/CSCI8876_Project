@@ -433,12 +433,233 @@ INSERT INTO nbsConditions VALUES (
   );
 
 INSERT INTO nbsConditions VALUES (
-  "Long-Chain L-3 Hydroxyacyl-CoA Dehydrogenase Deficiency", 
-  "LCHAD",
-  "Fatty Acid Oxidation Disorder",
-  "LCHAD",
+  "Malonic acidemia", 
+  "MAL",
+  "Organic Acid Condition",
+  "MLYCD",
   "Autosomal recessive",
-  "Unknown",
-  "Dietary, MCT Oil, DHA Supplements",
+  "< 30 cases reported",
+  "Dietary, L-Carnitine Supplements",
+  "CO, IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Maple syrup urine disease", 
+  "MSUD",
+  "Amino Acid Disorder",
+  "BCKDHA, BCKDHB, DBT",
+  "Autosomal recessive",
+  "1:185,000",
+  "Dietary, Thiamine-responsive Prescription",
   "CO, IA, KS, NE, SD"
   );
+
+INSERT INTO nbsConditions VALUES (
+  "Medium-Chain Acyl-CoA Dehydrogenase Deficiency", 
+  "MCAD",
+  "Fatty Acid Oxidation Disorder",
+  "ACADM",
+  "Autosomal recessive",
+  "1:15,000",
+  "Dietary, L-Carnitine Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Medium-Chain Ketoacyl-CoA Thiolase Deficiency", 
+  "MCAT",
+  "Fatty Acid Oxidation Disorder",
+  "Unknown",
+  "Unknown",
+  "Very Rare",
+  "IV Fluids",
+  "IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Medium/Short-Chain L-3 Hydroxyacyl-CoA Dehydrogenase Deficiency", 
+  "M/SCHAD",
+  "Fatty Acid Oxidation Disorder",
+  "HADH",
+  "Autosomal recessive",
+  "Very Rare",
+  "Dietary, L-Carnitine Supplements, Insulin Regulating Medications",
+  "IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Methylmalonic Acidemia (Cobalamin Disorders)", 
+  "M/SCHAD",
+  "Organic Acid Disorder",
+  "MMAA, MMAB",
+  "Autosomal recessive",
+  "1:50,000-100,000",
+  "Dietary, L-Carnitine Supplements, Antibiotics, B-12 Injections",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Methylmalonic Acidemia (Methymalonyl-CoA Mutase Deficiency)", 
+  "MUT",
+  "Organic Acid Disorder",
+  "MMUT",
+  "Autosomal recessive",
+  "1:50,000-100,000",
+  "Dietary, L-Carnitine Supplements, Antibiotics",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Methylmalonic Acidemia with Homocystinuria", 
+  "Cbl C,D,F",
+  "Organic Acid Disorder",
+  "MMACHC, MMADHC, LMBRD1, ABCD4, HCFC1",
+  "Autosomal recessive, X-linked recessive",
+  "1:50,000-100,000",
+  "Dietary, L-Carnitine Supplements, Antibiotics, Betaine",
+  "CO, IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Mucopolysaccharidosis Type-I", 
+  "MPS I",
+  "Lysosomal Storage Disorder",
+  "IDUA",
+  "Autosomal recessive",
+  "1:100,000",
+  "Dietary, PT, Surgery, ERT, Stem Cell Transplant",
+  "CO, IA, KS, NE"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Propionic Acidemia", 
+  "PROP",
+  "Organic Acid Condition",
+  "PCCA, PCCB",
+  "Autosomal recessive",
+  "1:35,000-75,000",
+  "Dietary, L-Carnitine Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Sickle Cell Anemia", 
+  "Hb SS",
+  "Hemoglobin Disorders",
+  "HBB",
+  "Autosomal recessive",
+  "1:375 (African Ethnicity)",
+  "Fluids, Pain Medication, Antibiotics, Hydroxyurea, Blood Transfusions",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Severe Combined Immunodeficiency", 
+  "SCID",
+  "Other",
+  "IL2RG, ADA, RAG1, RAG2, DCLRE1C, NHEJ1, CD247, CD3E, CD3D, AK2, IL7RA, PTPRC",
+  "Autosomal recessive, X-linked recessive",
+  "1:40,000-75,000",
+  "Isolation, Immunoglobulin Replacement Therapy, Bone Marrow Transplant",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Short-Chain Acyl-CoA Dehydrogenase Deficiency", 
+  "SCAD",
+  "Fatty Acid Oxidation Disorder",
+  "ACADS",
+  "Autosomal recessive",
+  "1:40,000-100,000",
+  "Dietary, L-Carnitine Supplements, Riboflavin Supplements",
+  "CO, NE"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Spinal Muscular Atrophy", 
+  "SMA",
+  "Other",
+  "SMN1, SMN2",
+  "Autosomal recessive",
+  "1:10,000",
+  "SPINRAZA, Zolgensma, Evrysdi, Respiratory Support, Physical Therapy",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "T-cell Related Lymphocyte Deficiencies", 
+  "NA",
+  "Other",
+  "NA",
+  "Autosomal recessive, X-linked recessive, Autosomal dominant",
+  "Unknown",
+  "Isolation, Immunoglobulin Replacement Therapy, Transplant Surgery",
+  "NE"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Trifunctional Protein Deficiency", 
+  "TFP",
+  "Fatty Acid Oxidation Disorders",
+  "HADHA, HADHB",
+  "Autosomal recessive",
+  "Very Rare",
+  "Dietary, MCT Oil, L-Carnitine Supplements, Avoid Extreme Temperatures",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Tyrosinemia, Type I", 
+  "TYR I",
+  "Amino Acid Disorders",
+  "FAH",
+  "Autosomal recessive",
+  "1:100,000",
+  "Dietary, Nitisinone, Vitamin D Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Tyrosinemia, Type II", 
+  "TYR II",
+  "Amino Acid Disorders",
+  "TAT",
+  "Autosomal recessive",
+  "1:250,000",
+  "Dietary, NTBC Prescription",
+  "CO, IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Tyrosinemia, Type III", 
+  "TYR III",
+  "Amino Acid Disorders",
+  "HPD",
+  "Autosomal recessive",
+  "Very few cases reported",
+  "Dietary, NTBC Prescription",
+  "CO, IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Very Long-Chain Acyl-CoA Dehydrogenase Deficiency", 
+  "VLCAD",
+  "Fatty Acid Oxidation Disorders",
+  "ACADVL",
+  "Autosomal recessive",
+  "1:30,000",
+  "Dietary, MCT Oil, L-Carnitine Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "X-Linked Adrenoleukodystrophy", 
+  "X-ALD",
+  "Other",
+  "ABCD1",
+  "X-linked Recessive",
+  "1:17,000",
+  "Dietary, Steroids, Allogeneic Hematopoietic Cell Transplantation",
+  "CO, IA, NE"
+  );
+
