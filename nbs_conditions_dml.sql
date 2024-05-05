@@ -211,3 +211,234 @@ INSERT INTO nbsConditions VALUES (
   "Dietary Considerations, Arginine Supplements",
   "CO, IA, NE, SD"
   );
+
+INSERT INTO nbsConditions VALUES (
+  "Classic Galactosemia", 
+  "GALT",
+  "Other",
+  "GALT",
+  "Autosomal recessive",
+  "1:30,000-60,000",
+  "Dietary Considerations, Calcium Suppllements, Vitamin C, K Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Classic Phenylketonuria", 
+  "PKU",
+  "Amino Acid Disorder",
+  "PAH",
+  "Autosomal recessive",
+  "1:10,000-15,000",
+  "Dietary Considerations, BH4 Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Congenital Adrenal Hyperplasia", 
+  "CAH",
+  "Endocrine Disorder",
+  "CYP21A2",
+  "Autosomal recessive",
+  "1:15,000",
+  "Hydrocortisone Pills, Human Growth Hormone, Additional Hormone Medications, Genital Surgery",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Primary Congenital Hypothyroidism", 
+  "CH",
+  "Endocrine Disorder",
+  "Unknown",
+  "Autosomal recessive",
+  "1:3,000-4,000",
+  "Thyroid Hormone Replacement Therapy, L-thyroxine pills, Soy and Iron Restrictions",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Critical Congenital Heart Disease", 
+  "CDHD",
+  "Other",
+  "Unknown",
+  "Sporadic",
+  "2:1,000",
+  "Surgery, Catheter Procedures",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Cystic Fibrosis", 
+  "CF",
+  "Other",
+  "CFTR",
+  "Autosomal recessive",
+  "Varies by ethnicity",
+  "Dietary, Pancreatic Enzymes, Vitamins, Mucus Thinners, Brochodilators, Anti-inflammatories, Antibiotics, Airway Clearance",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Galactoepimerase Deficiency", 
+  "GALE",
+  "Other",
+  "GALE",
+  "Autosomal recessive",
+  "1:6,700 (African Ethnicity)",
+  "Dietary, Calcium, Vitamin K,C",
+  "NE"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Galactokinase deficiency", 
+  "GALK",
+  "Other",
+  "GALK",
+  "Autosomal recessive",
+  "< 1:100,000",
+  "Dietary, Calcium, Vitamin K,C",
+  "NE"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Glutaric Acidemia, Type I", 
+  "GA-1",
+  "Organic Acid Condition",
+  "GCDH",
+  "Autosomal recessive",
+  "1:40,000",
+  "Dietary, Riboflavin, L-Carnitine Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Glutaric Acidemia, Type II", 
+  "GA-2",
+  "Fatty Acid Oxidation Disorder",
+  "ETFA, ETFB, ETFDH",
+  "Autosomal recessive",
+  "Very Rare",
+  "Dietary, Riboflavin, L-Carnitine Supplements, Glycine Supplements",
+  "CO, IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Pompe", 
+  "POMPE",
+  "Lysosomal Storage Disorder",
+  "GAA",
+  "Autosomal recessive",
+  "1:40,000",
+  "Enzyme Replacement Therapy, Physical Therapy, Respiratory Therapy, Dietary",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Hearing Loss", 
+  "HEAR",
+  "Other",
+  "Many",
+  "Autosomal recessive, Dominant, X-linked recessive",
+  "1-3:1,000",
+  "Early intervention, Techonology/Devices, Communication",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "S, C Disease", 
+  "HB S/C",
+  "Hemoglobin Disorder",
+  "HBB",
+  "Autosomal recessive",
+  "1:835 (African Ethnicity)",
+  "Fluids, Pain Medication, Antibiotics, Hydroxyurea, Blood Transfusions",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Hemoglobinopathies", 
+  "Var Hb",
+  "Hemoglobin Disorder",
+  "HBB",
+  "Autosomal recessive",
+  "1:20,000",
+  "Fluids, Pain Medication, Antibiotics, Blood Transfusions",
+  "IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Holocarboxylase Synthetase Deficiency", 
+  "MCD",
+  "Organic Acid Condition",
+  "HLCS",
+  "Autosomal recessive",
+  "1:87,000",
+  "Biotin Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Homocystinuria", 
+  "HCY",
+  "Amino Acid Disorder",
+  "CBS",
+  "Autosomal recessive",
+  "1:200,000-300,000",
+  "Dietary, Vitamin B6, B12, Folic Acid, L-Cysteine Supplements, Betaine",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Hypermethioninemia", 
+  "MET",
+  "Amino Acid Disorder",
+  "AHCY, GNMT, MAT1A",
+  "Autosomal recessive",
+  "Very Rare",
+  "Dietary",
+  "CO, IA, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Isobutyrylglycinuria", 
+  "IBG",
+  "Organic Acid Disorder",
+  "ACAD8",
+  "Autosomal recessive",
+  "< 30 cases reported",
+  "Dietary, L-Carnitine Supplements",
+  "IA, NE"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Isovaleric Acidemia", 
+  "IVA",
+  "Organic Acid Disorder",
+  "IVD",
+  "Autosomal recessive",
+  "1:230,000",
+  "Dietary, L-Carnitine Supplements, Glycine",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Long-Chain L-3 Hydroxyacyl-CoA Dehydrogenase Deficiency", 
+  "LCHAD",
+  "Fatty Acid Oxidation Disorder",
+  "LCHAD",
+  "Autosomal recessive",
+  "Unknown",
+  "Dietary, MCT Oil, DHA Supplements",
+  "CO, IA, KS, NE, SD"
+  );
+
+INSERT INTO nbsConditions VALUES (
+  "Long-Chain L-3 Hydroxyacyl-CoA Dehydrogenase Deficiency", 
+  "LCHAD",
+  "Fatty Acid Oxidation Disorder",
+  "LCHAD",
+  "Autosomal recessive",
+  "Unknown",
+  "Dietary, MCT Oil, DHA Supplements",
+  "CO, IA, KS, NE, SD"
+  );
