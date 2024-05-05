@@ -10,8 +10,8 @@ CREATE TABLE states (
 CREATE TABLE nbsConditions (
   condition_name VARCHAR(50),
   cond_abbrev VARCHAR(15),
-  gene_name VARCHAR(30),
-  mutation_type VARCHAR(30),
-  incidence VARCHAR(15),
+  gene_name VARCHAR(100),
+  mutation_type VARCHAR(100),
+  incidence VARCHAR(100),
   PRIMARY KEY (condition_name)
 );
