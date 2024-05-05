@@ -1,6 +1,22 @@
 -- Use my database in mysql
 USE mhartnett;
 
+-- Drop table if it already exists
+DROP TABLE IF EXISTS nbsConditions;
+
+-- DLL to create nbsConditions
+CREATE TABLE nbsConditions (
+  condition_name VARCHAR(200),
+  abbreviation VARCHAR(20),
+  condition_type VARCHAR(100),
+  gene VARCHAR(100),
+  inheritance VARCHAR(100),
+  incidence VARCHAR(100),
+  treatments VARCHAR(255),
+  states VARCHAR(100),
+  PRIMARY KEY (condition_name)
+  );
+
 -- DML Statements
 
 INSERT INTO nbsConditions VALUES (
