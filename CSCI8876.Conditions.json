@@ -1,3 +1,4 @@
+db.conditions.insertMany(
 [{
   "_id": {
     "$oid": "662ee32cae8e552df0e8695d"
@@ -1487,3 +1488,4 @@
     "NE"
   ]
 }]
+)
