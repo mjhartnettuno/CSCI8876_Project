@@ -1,0 +1,1489 @@
+[{
+  "_id": {
+    "$oid": "662ee32cae8e552df0e8695d"
+  },
+  "condition_name": "2,4 Dienoyl-CoA reductase deficiency",
+  "abbreviation": "DE-RED",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": "NADK2",
+  "genetic_condition": "autosomal recessive",
+  "incidence": "1 case detected",
+  "treatments": [
+    "Low-Lysine Formula",
+    "Carnitine Supplements"
+  ],
+  "state": [
+    "NE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662ee7aaae8e552df0e8695e"
+  },
+  "condition_name": "2-methyl-3-hydroxybutyric acidemia",
+  "abbreviation": "2M3HBA",
+  "condition_type": "Organic Acid Condition",
+  "gene": "HSD17B10",
+  "genetic_condition": "X-linked recessive",
+  "incidence": "11 total cases",
+  "treatments": [
+    "Restrict certain proteins",
+    "Frequent meals"
+  ],
+  "state": [
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "662eec0fae8e552df0e8695f"
+  },
+  "condition_name": "2-methylbutyrylglycinuria",
+  "abbreviation": "2MBG",
+  "condition_type": "Organic Acid Condition",
+  "gene": "ACADSB",
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:250-500 with Hmong ancestry",
+  "treatments": [
+    "Restricted Diet",
+    "L-carnitine Supplements"
+  ],
+  "state": [
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66353d7f0838addcf8d1ca15"
+  },
+  "condition_name": "3-hydroxy-3-methylglutaric Aciduria",
+  "abbreviation": "HMG",
+  "condition_type": "Organic Acid Condition",
+  "gene": "HMGCL",
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "< 1:100,000",
+  "treatments": [
+    "Restricted Diet",
+    "L-carnitine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66353f220838addcf8d1ca16"
+  },
+  "condition_name": "3-Methylglutaconic Aciduria",
+  "abbreviation": "3MGA",
+  "condition_type": "Organic Acid Condition",
+  "gene": [
+    "AUH",
+    "TAZ",
+    "OPA3",
+    "DNAJC19"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "Very Rare",
+  "treatments": [
+    "Cardiac Monitoring"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663540540838addcf8d1ca17"
+  },
+  "condition_name": "3-Methylcrotonyl-CoA Carboxylase Deficiency",
+  "abbreviation": "3-MCC",
+  "condition_type": "Organic Acid Condition",
+  "gene": [
+    "MCCC1",
+    "MCCC2"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "< 120 babies per year",
+  "treatments": [
+    "Leucine-free formula",
+    "Frequent meals",
+    "L-Carnitine supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663542260838addcf8d1ca18"
+  },
+  "condition_name": "Argininemia",
+  "abbreviation": "ARG",
+  "condition_type": "Amino Acid Disorder",
+  "gene": "ARG1",
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "< 15 babies each year",
+  "treatments": [
+    "Restricted Diet"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663542f00838addcf8d1ca19"
+  },
+  "condition_name": "Argininosuccinic Aciduria",
+  "abbreviation": "ASA",
+  "condition_type": "Amino Acid Disorder",
+  "gene": "ASL",
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:70,000",
+  "treatments": [
+    "Low-protein Diet",
+    "Arginine supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663546f50838addcf8d1ca1a"
+  },
+  "condition_name": "Benign Hyperphenylalaninemia",
+  "abbreviation": "H-PHE",
+  "condition_type": "Amino Acid Disorder",
+  "gene": "PAH",
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "15-75:1,000,000",
+  "treatments": [
+    "Restricted Diet for extreme cases"
+  ],
+  "state": [
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6635478e0838addcf8d1ca1b"
+  },
+  "condition_name": "Beta-Ketothiolase Deficiency",
+  "abbreviation": "BKT",
+  "condition_type": "Organic Acid Condition",
+  "gene": "ACAT1",
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "< 1:1,000,000",
+  "treatments": [
+    "Restricted Diet",
+    "Frequent Meals",
+    "L-Carnitine Supplements",
+    "Bicitra"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66354a150838addcf8d1ca1c"
+  },
+  "condition_name": "S, Beta-Thalassemia",
+  "abbreviation": "HB S/BTh",
+  "condition_type": "Hemoglobin Disorder",
+  "gene": "HBB",
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1,000's born per year",
+  "treatments": [
+    "Hydration",
+    "Pain Medication",
+    "Antibiotics",
+    "Hydroxyurea",
+    "Blood Transfusions"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66354adc0838addcf8d1ca1e"
+  },
+  "condition_name": "Biopterin Defect in Cofactor Biosynthesis",
+  "abbreviation": "BIOPT-BS",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "GCH1",
+    "PTS"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:1,000,000",
+  "treatments": [
+    "Restrictive Diet",
+    "BH4 Supplements",
+    "Dopamine Medications"
+  ],
+  "state": [
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66354ba10838addcf8d1ca1f"
+  },
+  "condition_name": "Biopterin Defect in Cofactor Regeneration",
+  "abbreviation": "BIOPT-REG",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "PCBD1",
+    "QDPR"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:1,000,000",
+  "treatments": [
+    "Restrictive Diet",
+    "BH4 Supplements",
+    "Dopamine Medications"
+  ],
+  "state": [
+    "IA",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66354c480838addcf8d1ca20"
+  },
+  "condition_name": "Biotinidase Deficiency",
+  "abbreviation": "BIOT",
+  "condition_type": "Other",
+  "gene": [
+    "BTD"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:60,000",
+  "treatments": [
+    "Biotin Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66354d0b0838addcf8d1ca21"
+  },
+  "condition_name": "Carnitine Acylcarnitine Translocase Deficiency",
+  "abbreviation": "CACT",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "SLC25A20"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "30 cases total",
+  "treatments": [
+    "Restricted Diet",
+    "Frequent Meals",
+    "L-Carnitine Supplements",
+    "Medium Chain Triglyceride Oil"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66354dd60838addcf8d1ca22"
+  },
+  "condition_name": "Carnitine Palmitoyltransferase I Deficiency",
+  "abbreviation": "CPT-1A",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "CPT1A"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "less than 50 cases total",
+  "treatments": [
+    "Restricted Diet",
+    "Frequent Meals",
+    "Medium Chain Triglyceride Oil"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66354e860838addcf8d1ca23"
+  },
+  "condition_name": "Carnitine Palmitoyltransferase Type II Deficiency",
+  "abbreviation": "CPT-II",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "CPT2"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "At least 30 cases",
+  "treatments": [
+    "Restricted Diet",
+    "Frequent Meals",
+    "Medium Chain Triglyceride Oil",
+    "L-Carnitine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66354f400838addcf8d1ca24"
+  },
+  "condition_name": "Carnitine Uptake Defect",
+  "abbreviation": "CUD",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "SLC22A5"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:100,000",
+  "treatments": [
+    "Restricted Diet",
+    "Frequent Meals",
+    "L-Carnitine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66354fb70838addcf8d1ca25"
+  },
+  "condition_name": "Citrullinemia, Type I",
+  "abbreviation": "CIT",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "ASS1"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:57,000",
+  "treatments": [
+    "Restricted Diet",
+    "Special Formula",
+    "Arginine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663550470838addcf8d1ca26"
+  },
+  "condition_name": "Citrullinemia, Type II",
+  "abbreviation": "CIT II",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "SLC25A13"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:100,000-230,000 (Japanese)",
+  "treatments": [
+    "Restricted Diet",
+    "Arginine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663551000838addcf8d1ca27"
+  },
+  "condition_name": "Classic Galactosemia",
+  "abbreviation": "GALT",
+  "condition_type": "Other",
+  "gene": [
+    "GALT"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:30,000-60,000",
+  "treatments": [
+    "Lactose/Galactose-Free Diet",
+    "Calcium Supplements",
+    "Vitamin C Supplements",
+    "Vitamin K Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663551d10838addcf8d1ca28"
+  },
+  "condition_name": "Classic Phenylketonuria",
+  "abbreviation": "PKU",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "PAH"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:10,000-15,000",
+  "treatments": [
+    "Restricted Diet",
+    "BH4 Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66355bb50838addcf8d1ca29"
+  },
+  "condition_name": "Congenital Adrenal Hyperplasia",
+  "abbreviation": "CAH",
+  "condition_type": "Endocrine Disorder",
+  "gene": [
+    "CYP21A2"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:15,000",
+  "treatments": [
+    "Hydrocortisone Pills",
+    "Human Growth Hormone",
+    "Additional Hormone Medications",
+    "Genital Surgery"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66355c980838addcf8d1ca2a"
+  },
+  "condition_name": "Primary Congenital Hypothyroidism",
+  "abbreviation": "CH",
+  "condition_type": "Endocrine Disorder",
+  "gene": [
+    "Unknown"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:3,000-4,000",
+  "treatments": [
+    "Thyroid Hormone Replacement Therapy",
+    "L-thyroxine pills",
+    "Soy and Iron Restrictions"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66355f730838addcf8d1ca2b"
+  },
+  "condition_name": "Critical Congenital Heart Disease",
+  "abbreviation": "CCHD",
+  "condition_type": "Other",
+  "gene": [
+    "Not Known in most cases"
+  ],
+  "genetic_condition": "Sporadic",
+  "incidence": "2:1,000",
+  "treatments": [
+    "Surgery",
+    "Catheter Procedures"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663561120838addcf8d1ca2c"
+  },
+  "condition_name": "Cystic Fibrosis",
+  "abbreviation": "CF",
+  "condition_type": "Other",
+  "gene": [
+    "CFTR"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "Varies by ethnicity",
+  "treatments": [
+    "High Calorie Diet",
+    "Pancreatic Enzymes",
+    "Vitamin Supplements",
+    "Mucus Thinners",
+    "Bronchodilators",
+    "Anti-inflammatories",
+    "Antibiotics",
+    "Airway Clearance Therapies"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663562a00838addcf8d1ca2d"
+  },
+  "condition_name": "Galactoepimerase Deficiency",
+  "abbreviation": "GALE",
+  "condition_type": "Other",
+  "gene": [
+    "GALE"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "Varies by ethnicity, most commonly in African American (1:6,700)",
+  "treatments": [
+    "Restrictive Diet",
+    "Calcium Supplements",
+    "Vitamin K",
+    "Vitamin C"
+  ],
+  "state": [
+    "NE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663563f40838addcf8d1ca2e"
+  },
+  "condition_name": "Galactokinase deficiency",
+  "abbreviation": "GALK",
+  "condition_type": "Other",
+  "gene": [
+    "GALK"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "< 1:100,000",
+  "treatments": [
+    "Restrictive Diet",
+    "Calcium Supplements",
+    "Vitamin K",
+    "Vitamin C"
+  ],
+  "state": [
+    "NE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66357aa70838addcf8d1ca2f"
+  },
+  "condition_name": "Glutaric Acidemia, Type I",
+  "abbreviation": "GA-1",
+  "condition_type": "Organic Acid Condition",
+  "gene": [
+    "GCDH"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "1:40,000",
+  "treatments": [
+    "Carefully Planned Diet",
+    "Frequent Meals",
+    "Riboflavin",
+    "L-Carnitine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66357b570838addcf8d1ca30"
+  },
+  "condition_name": "Glutaric Acidemia, Type II",
+  "abbreviation": "GA-2",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "ETFA",
+    "ETFB",
+    "ETFDH"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "Very Rare",
+  "treatments": [
+    "Planned Diet",
+    "Frequent Meals",
+    "Riboflavin",
+    "L-Carnitine Supplements",
+    "Glycine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66357c3d0838addcf8d1ca31"
+  },
+  "condition_name": "Pompe",
+  "abbreviation": "POMPE",
+  "condition_type": "Lysosomal Storage Disorder",
+  "gene": [
+    "GAA"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "1:40,000",
+  "treatments": [
+    "Enzyme Replacement Therapy",
+    "Physical Therapy",
+    "Respiratory Therapy",
+    "Dietary Considerations"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66357cea0838addcf8d1ca32"
+  },
+  "condition_name": "Hearing Loss",
+  "abbreviation": "HEAR",
+  "condition_type": "Other",
+  "gene": [
+    "Many"
+  ],
+  "genetic_condition": "Autosomal Recessive, Dominant, or X-Linked Recessive",
+  "incidence": "1-3:1,000",
+  "treatments": [
+    "Early Intervention",
+    "Technology/Devices",
+    "Communication"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66357e5e0838addcf8d1ca33"
+  },
+  "condition_name": "S, C Disease",
+  "abbreviation": "HB S/C",
+  "condition_type": "Hemoglobin Disorder",
+  "gene": [
+    "HBB"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "Most Common in African Descent (1:835)",
+  "treatments": [
+    "Fluids",
+    "Pain Medication",
+    "Antibiotics",
+    "Hydroxyurea",
+    "Blood Transfusions"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6635833f0838addcf8d1ca34"
+  },
+  "condition_name": "Hemoglobinopathies",
+  "abbreviation": "Var Hb",
+  "condition_type": "Hemoglobin Disorders",
+  "gene": [
+    "HBB"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "1:20,000",
+  "treatments": [
+    "Fluids",
+    "Pain Medication",
+    "Antibiotics",
+    "Blood Transfusions"
+  ],
+  "state": [
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6635848d0838addcf8d1ca35"
+  },
+  "condition_name": "Holocarboxylase Synthetase Deficiency",
+  "abbreviation": "MCD",
+  "condition_type": "Organic Acid Condition",
+  "gene": [
+    "HLCS"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "1:87,000",
+  "treatments": [
+    "Biotin Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663585830838addcf8d1ca36"
+  },
+  "condition_name": "Homocystinuria",
+  "abbreviation": "HCY",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "CBS"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "1:200k-300k",
+  "treatments": [
+    "Dietary Considerations",
+    "Vitamin B6 Supplements",
+    "Betaine",
+    "Folic Acid",
+    "Vitamin B12",
+    "L-Cysteine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6635868e0838addcf8d1ca37"
+  },
+  "condition_name": "Hypermethioninemia",
+  "abbreviation": "MET",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "AHCY",
+    "GNMT",
+    "MAT1A"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "Very Rare",
+  "treatments": [
+    "Dietary Considerations"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663587530838addcf8d1ca38"
+  },
+  "condition_name": "Isobutyrylglycinuria",
+  "abbreviation": "IBG",
+  "condition_type": "Organic Acid Disorder",
+  "gene": [
+    "ACAD8"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "< 30 cases reported",
+  "treatments": [
+    "Dietary Considerations",
+    "L-Carnitine Supplements"
+  ],
+  "state": [
+    "IA",
+    "NE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663588160838addcf8d1ca39"
+  },
+  "condition_name": "Isovaleric acidemia",
+  "abbreviation": "IVA",
+  "condition_type": "Organic Acid Disorder",
+  "gene": [
+    "IVD"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "1:230,000",
+  "treatments": [
+    "Dietary Considerations",
+    "L-Carnitine Supplements",
+    "Glycine"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6635889b0838addcf8d1ca3a"
+  },
+  "condition_name": "Long-Chain L-3 Hydroxyacyl-CoA Dehydrogenase Deficiency",
+  "abbreviation": "LCHAD",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "HADHA"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "Unknown",
+  "treatments": [
+    "Dietary Considerations",
+    "Medium Chain Triglyceride Oil",
+    "DHA Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6635896c0838addcf8d1ca3b"
+  },
+  "condition_name": "Malonic acidemia",
+  "abbreviation": "MAL",
+  "condition_type": "Organic Acid Condition",
+  "gene": [
+    "MLYCD"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "< 30 cases reported",
+  "treatments": [
+    "Dietary Considerations",
+    "L-Carnitine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663589f40838addcf8d1ca3c"
+  },
+  "condition_name": "Maple syrup urine disease",
+  "abbreviation": "MSUD",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "BCKDHA",
+    "BCKDHB",
+    "DBT"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "1:185,000 Globally",
+  "treatments": [
+    "Dietary Considerations",
+    "Thiamine-responsive prescription"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66358a940838addcf8d1ca3d"
+  },
+  "condition_name": "Medium-Chain Acyl-CoA Dehydrogenase Deficiency",
+  "abbreviation": "MCAD",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "ACADM"
+  ],
+  "genetic_condition": "Autosomal Recessive",
+  "incidence": "1:15,000",
+  "treatments": [
+    "Dietary Considerations",
+    "L-Carnitine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66358b490838addcf8d1ca3e"
+  },
+  "condition_name": "Medium-Chain Ketoacyl-CoA Thiolase Deficiency",
+  "abbreviation": "MCAT",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "N/A"
+  ],
+  "genetic_condition": "Unknown",
+  "incidence": "Very Rare",
+  "treatments": [
+    "IV Fluids"
+  ],
+  "state": [
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66358c1b0838addcf8d1ca3f"
+  },
+  "condition_name": "Medium/Short-Chain L-3 Hydroxyacyl-CoA Dehydrogenase Deficiency",
+  "abbreviation": "M/SCHAD",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "HADH"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "Very Rare",
+  "treatments": [
+    "Dietary Considerations",
+    "L-Carnitine Supplements",
+    "Insulin Regulating Medications"
+  ],
+  "state": [
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66358d200838addcf8d1ca40"
+  },
+  "condition_name": "Methylmalonic Acidemia (Cobalamin Disorders)",
+  "abbreviation": "MMA",
+  "condition_type": "Organic Acid Disorder",
+  "gene": [
+    "MMAA",
+    "MMAB"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:50,000-100,000",
+  "treatments": [
+    "Vitamin B-12 Injections",
+    "L-Carnitine Supplements",
+    "Antibiotics",
+    "Dietary Considerations"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66358ed90838addcf8d1ca41"
+  },
+  "condition_name": "Methylmalonic Acidemia (Methymalonyl-CoA Mutase Deficiency)",
+  "abbreviation": "MUT",
+  "condition_type": "Organic Acid Disorder",
+  "gene": [
+    "MMUT"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:50,000-100,000",
+  "treatments": [
+    "L-Carnitine Supplements",
+    "Antibiotics",
+    "Dietary Considerations"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66358fcca3faf4e35dd7f875"
+  },
+  "condition_name": "Methylmalonic Acidemia with Homocystinuria",
+  "abbreviation": "Cbl C,D,F",
+  "condition_type": "Organic Acid Disorder",
+  "gene": [
+    "MMACHC",
+    "MMADHC",
+    "LMBRD1",
+    "ABCD4",
+    "HCFC1"
+  ],
+  "genetic_condition": "Autosomal recessive, X-Linked Recessive",
+  "incidence": "1:50,000-100,000",
+  "treatments": [
+    "L-Carnitine Supplements",
+    "Vitamin B-12",
+    "Betaine",
+    "Dietary Considerations"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66366c2033e5ae670be01d38"
+  },
+  "condition_name": "Mucopolysaccharidosis Type-I",
+  "abbreviation": "MPS I",
+  "condition_type": "Lysosomal Storage Disorder",
+  "gene": [
+    "IDUA"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:100,000",
+  "treatments": [
+    "Physical Therapy",
+    "Surgery",
+    "Dietary Considerations",
+    "Enzyme Replacement Therapy",
+    "Hematopoietic Stem Cell Transplantation"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6636718333e5ae670be01d39"
+  },
+  "condition_name": "Propionic Acidemia",
+  "abbreviation": "PROP",
+  "condition_type": "Organic Acid Condition",
+  "gene": [
+    "PCCA",
+    "PCCB"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:35,000-75,000",
+  "treatments": [
+    "Dietary Considerations",
+    "L-Carnitine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6636724633e5ae670be01d3a"
+  },
+  "condition_name": "Sickle Cell Anemia",
+  "abbreviation": "Hb SS",
+  "condition_type": "Hemoglobin Disorders",
+  "gene": [
+    "HBB"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "Varies by Ethnicity - 1:375 babies of African Descent",
+  "treatments": [
+    "Fluids",
+    "Pain medication",
+    "Antibiotics",
+    "Hydroxyurea",
+    "Blood Transfusions"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663672ef33e5ae670be01d3b"
+  },
+  "condition_name": "Severe Combined Immunodeficiency",
+  "abbreviation": "SCID",
+  "condition_type": "Other",
+  "gene": [
+    "IL2RG",
+    "ADA",
+    "RAG1",
+    "RAG2",
+    "DCLRE1C",
+    "NHEJ1",
+    "CD247",
+    "CD3E",
+    "CD3D",
+    "AK2",
+    "IL7RA",
+    "PTPRC"
+  ],
+  "genetic_condition": "Autosomal recessive, X-linked Recessive",
+  "incidence": "1:40,000-75,000",
+  "treatments": [
+    "Isolation",
+    "Immunoglobulin Replacement Therapy",
+    "Bone Marrow Transplant"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663673f233e5ae670be01d3c"
+  },
+  "condition_name": "Short-Chain Acyl-CoA Dehydrogenase Deficiency",
+  "abbreviation": "SCAD",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "ACADS"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:40,000-100,000",
+  "treatments": [
+    "Dietary Considerations",
+    "L-Carnitine Supplements",
+    "Riboflavin Supplements"
+  ],
+  "state": [
+    "CO",
+    "NE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663674b933e5ae670be01d3e"
+  },
+  "condition_name": "Spinal Muscular Atrophy",
+  "abbreviation": "SMA",
+  "condition_type": "Other",
+  "gene": [
+    "SMN1",
+    "SMN2"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:10,000",
+  "treatments": [
+    "SPINRAZA",
+    "Zolgensma",
+    "Evrysdi",
+    "Respiratory Support",
+    "Physical Therapy"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6636756633e5ae670be01d3f"
+  },
+  "condition_name": "T-cell Related Lymphocyte Deficiencies",
+  "abbreviation": "NA",
+  "condition_type": "Other",
+  "gene": [
+    "NA"
+  ],
+  "genetic_condition": "Autosomal recessive, X-Linked Recessive, Autosomal Dominant",
+  "incidence": "Unknown (one study suggested ~5:100,000)",
+  "treatments": [
+    "Isolation",
+    "Immunoglobulin Replacement Therapy",
+    "Transplant Surgery"
+  ],
+  "state": [
+    "NE"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6636761433e5ae670be01d40"
+  },
+  "condition_name": "Trifunctional Protein Deficiency",
+  "abbreviation": "TFP",
+  "condition_type": "Fatty Acid Oxidation Disorders",
+  "gene": [
+    "HADHA",
+    "HADHB"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "Very Rare",
+  "treatments": [
+    "Dietary Considerations",
+    "Medium Chain Triglyceride Oil",
+    "L-Carnitine Supplements",
+    "Avoid Extreme Temperatures"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6636769433e5ae670be01d41"
+  },
+  "condition_name": "Tyrosinemia, Type I",
+  "abbreviation": "TYR I",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "FAH"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:100,000",
+  "treatments": [
+    "Dietary Considerations",
+    "Nitisinone",
+    "Vitamin D Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663676ea33e5ae670be01d42"
+  },
+  "condition_name": "Tyrosinemia, Type II",
+  "abbreviation": "TYR II",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "TAT"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:250,000",
+  "treatments": [
+    "Dietary Considerations",
+    "NTBC Prescription"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6636776433e5ae670be01d43"
+  },
+  "condition_name": "Tyrosinemia, Type III",
+  "abbreviation": "TYR III",
+  "condition_type": "Amino Acid Disorder",
+  "gene": [
+    "HPD"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "Very few cases reported",
+  "treatments": [
+    "Dietary Considerations",
+    "NTBC Prescription"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "663677c333e5ae670be01d44"
+  },
+  "condition_name": "Very Long-Chain Acyl-CoA Dehydrogenase Deficiency",
+  "abbreviation": "VLCAD",
+  "condition_type": "Fatty Acid Oxidation Disorder",
+  "gene": [
+    "ACADVL"
+  ],
+  "genetic_condition": "Autosomal recessive",
+  "incidence": "1:30,000",
+  "treatments": [
+    "Dietary Considerations",
+    "Medium Chain Triglyceride Oil",
+    "L-Carnitine Supplements"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "KS",
+    "NE",
+    "SD"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6636784733e5ae670be01d45"
+  },
+  "condition_name": "X-Linked Adrenoleukodystrophy",
+  "abbreviation": "X-ALD",
+  "condition_type": "Other",
+  "gene": [
+    "ABCD1"
+  ],
+  "genetic_condition": "X-Linked Recessive",
+  "incidence": "1:17,000",
+  "treatments": [
+    "Steroids",
+    "Allogeneic Hematopoietic Cell Transplantation",
+    "Dietary Considerations",
+    "Other medications for associated, isolated symptoms"
+  ],
+  "state": [
+    "CO",
+    "IA",
+    "NE"
+  ]
+}]

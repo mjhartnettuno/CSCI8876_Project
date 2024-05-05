@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "662ed0e8ae8e552df0e86950"
+  },
+  "state_name": "Nebraska",
+  "state_abbrev": "NE",
+  "screened_conditions": 60
+},
+{
+  "_id": {
+    "$oid": "662ed191ae8e552df0e86952"
+  },
+  "state_name": "Colorado",
+  "state_abbrev": "CO",
+  "screened_conditions": 48
+},
+{
+  "_id": {
+    "$oid": "662ed1d0ae8e552df0e86953"
+  },
+  "state_name": "Iowa",
+  "state_abbrev": "IA",
+  "screened_conditions": 56
+},
+{
+  "_id": {
+    "$oid": "662ed1f2ae8e552df0e86954"
+  },
+  "state_name": "South Dakota",
+  "state_abbrev": "SD",
+  "screened_conditions": 53
+},
+{
+  "_id": {
+    "$oid": "662ed20cae8e552df0e86955"
+  },
+  "state_name": "Minnesota",
+  "state_abbrev": "MN",
+  "screened_conditions": 64
+},
+{
+  "_id": {
+    "$oid": "662ed239ae8e552df0e86956"
+  },
+  "state_name": "Kansas",
+  "state_abbrev": "KS",
+  "screened_conditions": 34
+},
+{
+  "_id": {
+    "$oid": "662ed261ae8e552df0e86957"
+  },
+  "state_name": "Wisconsin",
+  "state_abbrev": "WI",
+  "screened_conditions": 52
+},
+{
+  "_id": {
+    "$oid": "662ed31eae8e552df0e86958"
+  },
+  "state_name": "Illinois",
+  "state_abbrev": "IL",
+  "screened_conditions": 64
+},
+{
+  "_id": {
+    "$oid": "662ed33dae8e552df0e86959"
+  },
+  "state_name": "Michigan",
+  "state_abbrev": "MI",
+  "screened_conditions": 59
+},
+{
+  "_id": {
+    "$oid": "662ed367ae8e552df0e8695a"
+  },
+  "state_name": "Ohio",
+  "state_abbrev": "OH",
+  "screened_conditions": 47
+}]
